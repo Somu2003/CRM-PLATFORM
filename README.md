@@ -1,8 +1,5 @@
-# CRM-PLATFORM
 🎯 Mini CRM Platform
 A modern, full-stack Customer Relationship Management (CRM) platform built with FastAPI and Streamlit. This comprehensive solution enables businesses to manage customers, create marketing campaigns, track orders, and analyze business performance through an intuitive web interface.
-
-[![Python](https://img.shields.iohttps://img.shields.io/badge/FastAPI-0ps://img.ps://img.shields.io/badge/License-MIT-yellow 🌟 Features
 
 👥 Customer Management
 Complete CRUD Operations - Add, view, edit, and delete customers
